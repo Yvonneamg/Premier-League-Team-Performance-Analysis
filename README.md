@@ -7,9 +7,9 @@ This repository utilizes excel, power query and power pivot to analyze premier l
 # Tools
 - Power Query
 - Excel
-- Power Pivotm
+- Power Pivot
 
-  **Power Query**:
+   **Power Query**:
   - We utilize this to perform ETL(Extract Transform and Load). The dataset is loaded into power query first.
   - In power query, convert the columns into the correct data types, remove any duplicates, delete any unwanted columns and crete any calculated columns or custom columns as required.
   - In this dataset, I split the date column into 2 to allow for UK time and Central European Time. I changed the data types to date using locale. I rearranged the columns to ensure there is flow when reading the data. I created a calculated columns to show whether there is a home or away win or lose including a draw.I deleted the matchreport column since its unecessary and renamed most columns to ensure I can best be able to explore the data.
