@@ -7,7 +7,7 @@ This repository utilizes excel, power query and power pivot to analyze premier l
 # Tools
 - Power Query
 - Excel
-- Power Pivot
+- Power Pivotm
 
   **Power Query**:
   - We utilize this to perform ETL(Extract Transform and Load). The dataset is loaded into power query first.
