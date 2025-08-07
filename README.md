@@ -18,7 +18,8 @@ This repository utilizes excel, power query and power pivot to analyze premier l
   **Power Pivot**:
     - This is to enable data modeling using DAX(Data Analysis Expressions). It allows for complex metrics.
     - In power Pivot, create calculated columns like Goals For, Goals Against, Goal difference, Points, matches played, wins and draws.
-    - From powe pivot insert a pivot table and use a timeline to show the premier league standing for each season.
+    - From power pivot insert a pivot table and use a timeline to show the premier league standing for each season. Compute the winrate measure as well on power pivot.
+    - From power pivot, insert desired charts to visualize the data set.
  
  # Findings
 
