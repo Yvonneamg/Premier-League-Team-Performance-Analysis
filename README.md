@@ -25,13 +25,13 @@ This repository utilizes excel, power query and power pivot to analyze premier l
 
   **Excel**:
   - From excel, we build interactive pivot tables with slicers and filters to better interact with the data.
-  - Each sheet is used to communicate information on the performance of teams and how they compare with special focus on Liverpool and machetser City, using the filters, comparisons can be made of other teams of interest.
+  - Each sheet is used to communicate information on the performance of teams and how they compare with special focus on Liverpool and manchester City, using the filters, comparisons can be made of other teams of interest.
   - A final dashbooard that presents everything on one page is prepared on the first worksheet.
  
  # Key Findings
 - On Average, Liverpool had a win rate of 64.74% compared to Manchester City's 72.63%.
-- Liverpool drew many matches '40' compared to City's '26'. Interstingly, Liverpool only lost one more match '27' than City '26'. It can be concluded that Liverpool's performance could generally improve if they could eliminate or reduced the number of draws per season.
-- In the season 2022, where City defeated Liverpool by a single point, Liverpool had 8 draws compared to City's 6. If Liverpool Had won just one of those matches, they would have been champions.
+- Liverpool drew many matches '40' compared to City's '26'. Interstingly, Liverpool only lost one more match '27' than City '26'. It can be concluded that Liverpool's performance could generally improve if they could eliminate or reduce the number of draws per season.
+- In the season 2022, where City defeated Liverpool to the championship by a single point, Liverpool had 8 draws compared to City's 6. If Liverpool had won just one of those matches, they would have been champions.
 - Looking at the points tally, Manchester City is a far more consistent team which perphaps is the reason why they were champions foru years in a row.
 
 
