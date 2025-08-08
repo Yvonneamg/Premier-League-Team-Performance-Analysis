@@ -41,7 +41,7 @@ This repository utilizes excel, power query and power pivot to analyze premier l
 - [Dashboard](Premier_League_Team_Performance_Analysis_Dashboard.pdf)
 
  # How to run
- - Download the dataset from [here]()
+ - Download the dataset from [here](PremierLeague20202024rawdata.csv)
  - Download the Complete Excel File and recreate the power query, power pivot and charts operations.
  - View the Dashboard and recreate it.
  
